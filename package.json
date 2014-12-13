@@ -1,0 +1,19 @@
+{
+  "name": "space",
+  "version": "0.0.0",
+  "description": "have a share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NoodleJS/space.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoodleJS/space/issues"
+  },
+  "homepage": "https://github.com/NoodleJS/space"
+}
