@@ -1,0 +1,11 @@
+<script src="https://cdn.socket.io/socket.io-1.2.1.js"></script>
+<script>
+
+  var client = io.connect('http://localhost:300')
+  
+  client.on('init', function (e) {
+    console.log(e);
+    console.log('Hola , I am in page');
+  })
+
+</script>

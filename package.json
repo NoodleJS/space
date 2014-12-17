@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NoodleJS/space/issues"
   },
-  "homepage": "https://github.com/NoodleJS/space"
+  "homepage": "https://github.com/NoodleJS/space",
+  "dependencies": {
+    "socket.io": "^1.2.1"
+  }
 }
